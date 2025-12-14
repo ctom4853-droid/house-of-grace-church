@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 40px;
+  background-color: #f9fafb;
+}
+
+.logo {
+  width: 120px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: #1f2937;
+}
+
+.about {
+  max-width: 600px;
+  margin: 20px auto;
+  font-size: 18px;
+  color: #374151;
+}
+
+.contact {
+  margin-top: 40px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 8px;
+  display: inline-block;
+}
